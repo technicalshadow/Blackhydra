@@ -193,6 +193,7 @@ elif bhydra == '12':
 	print
 	user = raw_input("[*] User : ")
 	word = raw_input("[*] Wordlist : ")
+	iphost = raw_input("[*] IP/Hostname : ")
 	os.system("hydra -t 5 -V -f -l %s -e ns -P %s localhost mysql" % (user, word))
 	
 elif bhydra == '00' or bhydra == '0':
