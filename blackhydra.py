@@ -14,13 +14,18 @@ def restart_program():
 ##############################
 
 os.system("clear")
-
+print "-----------------------------------------------------"
+print "-----------------------------------------------------"
+print "---------------TECHNICAL SHADOW----------------------"
+print "-----------------------------------------------------"
 print "-----------------------------------------------------"
 print "[]xxxxx[]:::::::::::::::> We are ethical hacker"
 print " [*] Author: DedSecTL  ---  [*] V 1.0"
 print "c=={:::::::::::::::> Black Hydra Console"
 print " [*] SUBSCRIBE TO TECHNICAL SHADOW ON YOUTUBE"
-print "(}xxx{):::::::::> CYBERGANGWAR[technical shadow]"
+print "(}xxx{):::::::::> CYBERGANGSTAR[technical shadow]"
+print "-----------------------------------------------------"
+print "-----------------------------------------------------"
 print
 print "              ===|[ Brute Force ]|==="
 print
